@@ -6,7 +6,7 @@
 назначения.
 Путь от А до B будет отображен красным цветом.
 
-![image info](misc\images\Screenshot_4.png)
+![image info](./misc/images/Screenshot_4.png)
 
 Во втором блоке, Cave, рисуются пещеры. Есть возможно выбрать ширину и высоту поля, а также шанс
 появления свободных клеток.
@@ -17,5 +17,5 @@ Limit. От этих значений зависит при скольких
 соседних клетках клетка будет "оживать" (появляться) и при скольких будет "умирать" (исчезать)
 соответственно.
 
-![image info](misc\images\Screenshot_1.png)
-![image info](misc\images\Screenshot_5.png)
+![image info](./misc/images/Screenshot_1.png)
+![image info](./misc/images/Screenshot_5.png)
